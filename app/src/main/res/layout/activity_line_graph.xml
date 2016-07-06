@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:chart="http://schemas.android.com/apk/res-auto">
+
+    <com.db.chart.view.LineChartView
+        android:id="@+id/linechart"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/line_chart_height"
+        android:layout_margin="@dimen/line_chart_margin"
+        android:contentDescription="@string/line_graph_description"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:textAppearanceLarge"
+        android:id="@+id/stock_startDate_endDate"
+        tools:text="date"
+        android:layout_gravity="center_horizontal"/>
+
+</LinearLayout>

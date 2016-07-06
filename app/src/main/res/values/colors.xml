@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="material_blue_700">#1976D2</color>
+  <color name="material_blue_500">#2196F3</color>
+  <color name="material_red_700">#D50000</color>
+  <color name="material_green_700">#00C853</color>
+
+  <color name="line_graph_color">#53c1bd</color>
+  <color name="line_graph_fill">#3d6c73</color>
+  <color name="line_graph_gradient_fill">#364d5a</color>
+  <color name="line_graph_gradient_fill2">#3f7178</color>
+  <color name="widget_background">#bb030b03</color>
+  <color name="widget_heading_background">#aaDEDFDE</color>
+  <color name="widget_text_color">#4B4B4D</color>
+  <color name="widget_text_background">#aaa</color>
+</resources>

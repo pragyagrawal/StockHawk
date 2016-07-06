@@ -1,0 +1,45 @@
+
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fab="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+  <android.support.v7.widget.RecyclerView
+      android:id="@+id/recycler_view"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      />
+
+  <TextView
+      android:id="@+id/listview_stock_empty"
+      android:text="@string/empty_stock_list_no_network"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:gravity="center_horizontal"
+      android:paddingRight="@dimen/activity_horizontal_margin"
+      android:paddingEnd="@dimen/activity_horizontal_margin"
+      android:paddingLeft="@dimen/activity_horizontal_margin"
+      android:paddingStart="@dimen/activity_horizontal_margin"
+      android:paddingTop="@dimen/activity_vertical_margin"
+      android:paddingBottom="@dimen/activity_vertical_margin"
+      android:visibility="gone"/>
+
+  <com.melnykov.fab.FloatingActionButton
+      android:id="@+id/fab"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_gravity="bottom|end"
+      android:layout_margin="@dimen/float_button_margin"
+      android:src="@drawable/ic_add_white_24dp"
+      fab:fab_colorNormal="@color/material_blue_500"
+      fab:fab_colorPressed="@color/material_blue_600"
+      fab:fab_colorRipple="@color/ripple"
+      fab:fab_shadow="true"
+      fab:fab_type="normal"
+      fab:layout_anchor="recycler_view"
+      fab:layout_anchorGravity="bottom | end"
+      android:contentDescription="@string/action_change_units"
+      />
+</FrameLayout>
