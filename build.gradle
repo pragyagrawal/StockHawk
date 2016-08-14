@@ -8,7 +8,7 @@ buildscript {
     classpath 'com.neenbedankt.gradle.plugins:android-apt:1.2'
 
     // the version number here seems to follow Android Studio version
-    classpath 'com.android.tools.build:gradle:2.1.0-alpha4'
+    classpath 'com.android.tools.build:gradle:2.1.0'
 
     // NOTE: Do not place your application dependencies here; they belong
     // in the individual module build.gradle files

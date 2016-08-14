@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_71e06712f298be4a4f297591500913a5a3ace4ba\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.1_41e8db1350090229979e86f844222d0edde4080f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PRAGYA\.gradle\caches\modules-2\files-2.1\net.simonvt.schematic\schematic-annotations\0.6.3\4df5a4bbbacf9ea3c4aebf7d3c61465afb648e36\schematic-annotations-0.6.3.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4df5a4bbbacf9ea3c4aebf7d3c61465afb648e36">
+        <dex dex="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\schematic-annotations-0.6.3_aede8fd0115b0019b8a5f9b2c3b6716838700004\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="09a1d8bfdfe38f89a1d1dfca7388bccca3c79a89">
+        <dex dex="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_74237e363ccc60a1de95c6099a8c314eec7926ff\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="65620ba5e576dcec2c86efa440b00d042a27383b">
+        <dex dex="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.melnykov-floatingactionbutton-1.2.0_fc5bc16ab6609660661c9937d4e3edce06ef5177\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.2.1_d33a4eb439f918f6a2c3dfea0c60fead85404b07\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PRAGYA\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_4e7f2b88ce2a1c10a191acbc909f58d6641fd17b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\exploded-aar\net.simonvt.schematic\schematic\0.6.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f6f5730f19d22f177096c8d134d4892b0fbd631d">
+        <dex dex="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\net.simonvt.schematic-schematic-0.6.3_83591ea66770b6f5c3bcc80b2613d5aac770997a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.1_15716c8ab37adb94c2fa988e00a00d75b5f24182\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.1_f5aca2bf768116264cc30926b2af2f3d5b664235\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\exploded-aar\com.github.afollestad.material-dialogs\core\0.8.5.7\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a94e3ac390a37f149a235f7f5e1b49b65151c0bf">
+        <dex dex="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.afollestad.material-dialogs-core-0.8.5.7_bba47672fccb38ff326a3965cc63c4a1e84fca88\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.1_0fdea3eb92d4a81f67740cacd37a43c600f59470\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_3835e8e7ee9fb15d62ec69035cd2bc3426c51c9f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PRAGYA\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_8b28538084048676b23f85b169684d6ed625b815\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.1_a9ad2f8202508b3c49b60dff2b6e36fc52ff0337\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-measurement-8.4.0_5f12dfad8e604894d73c06698dec63b29f4c40c4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a64c84fdc183fc8a0fcb90aa0edc107cfb3a87bb">
+        <dex dex="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_23c2bde86458058ebe70121cce36a69072c1402d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.1.5\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4a9f97c742d058ca55948643c06f447895a9af76">
+        <dex dex="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\me.zhanghai.android.materialprogressbar-library-1.1.5_a606be3ab2802d7c8c5138e1de2c3db4c2310acd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_566a44f0ff7976a4883d8ebfe934e1ab9a26aaf0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\exploded-aar\com.diogobernardino\williamchart\2.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1f159979917aba68421fb945854049367d206410">
+        <dex dex="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.diogobernardino-williamchart-2.2_fda03dba6db4a2c9ff754776341f6730d684e627\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PRAGYA\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.5.0_f7370f5243fd5d23eb39c823b50cfca49ebdc700\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-8.4.0_b650d39f60860ac95706cd4e6cfeacae5adaf458\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PRAGYA\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\PRAGYA\Documents\GitHub\StockHawk\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.1_c97c556bb773ed93085a3ee6f9c7894c2045d686\classes.dex" />
+    </item>
+
+</items>
